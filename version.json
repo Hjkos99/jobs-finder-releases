@@ -1,0 +1,7 @@
+{
+  "version": "1.3.0",
+  "product": "JobFinder",
+  "update_url": "https://github.com/Hjkos99/jobs-finder-releases/releases/latest/download/latest.json",
+  "notes": "Béta 2: automatikus mentés a beállításokban, a típusszűrő megfordítva (alapból minden állás, amit bekapcsolsz arra szűr), új állásportálok (kísérleti), gyorsabb keresés, pontosabb motivációs levél pontok, jobb pozíció-felismerés a CV-ből",
+  "feedback_email": "youngmember99@gmail.com"
+}
